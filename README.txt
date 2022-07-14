@@ -1,4 +1,4 @@
-This is README file of Assignments folder (from css-assignment branch).
+This is README file of Assignments folder (making changes from master branch).
 Section 1 (HTML assignmets).
 
 
